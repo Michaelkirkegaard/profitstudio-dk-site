@@ -1,0 +1,39 @@
+# Profit Studio
+
+> Profit Studio er et growth studio for ambitiøse e-commerce-brands, med base i København. Vi vokser brands gennem Profit Engineering: SEO, Google Ads, paid social, automation, branding og omnichannel, drevet som ét team og målt på profit frem for klik eller eksponeringer.
+
+Profit Studio er grundlagt af Michael Kirkegaard, en e-commerce-CEO, der driver de danske webshops Maxis.dk (hjem for sportsbrandet Nordic Power) og Billigtraening.dk. Studiet anvender den samme metode på sine egne shops, før det anbefaler den til kunder. Michael har mere end ti års erfaring i digital marketing, har arbejdet med 20+ brands og har talt på eTail Nordic og Savant Ecommerce om GenAI til content, tracking og profitabilitet. Det engelske site er profitstudio.io; en dansk version ligger på profitstudio.dk.
+
+## Metode
+
+- [Profit Engineering](https://profitstudio.dk/profit-engineering/): Vores metode til at vokse et e-commerce-brand. Seks discipliner, drevet som ét team og styret af det, der når bundlinjen. Paraplyen over de seks playbooks nedenfor.
+
+## Playbooks
+
+- [SEO](https://profitstudio.dk/seo/): Search der bliver til omsætning. Tekniske fixes, content koblet til reel efterspørgsel, emneklynger og synlighed i AI-svar fra ChatGPT, Gemini og Copilot.
+- [Google Ads](https://profitstudio.dk/google-ads/): Kampagner bygget på reel profit (POAS). Search, Shopping og Performance Max struktureret omkring reel unit economics.
+- [Paid Social](https://profitstudio.dk/paid-social/): Meta- og social-annoncering med kreativ og skalering målt på den profit, hver kampagne efterlader.
+- [Automation](https://profitstudio.dk/automation/): Email-flows og kampagner, der forvandler engangskøbere til loyal omsætning. Welcome-, abandonment- og post-purchase-flows plus pleje af leveringsevne.
+- [Branding](https://profitstudio.dk/branding/): Positionering, historie og et visuelt system, et lille team kan anvende, der gør hver anden kanal billigere.
+- [Omnichannel](https://profitstudio.dk/omnichannel/): Search, ads, email og brand konstrueret til at føde hinanden, med blandet måling og én fælles definition af profit.
+
+## Cases
+
+- [Cases](https://profitstudio.dk/cases/): Brands Profit Studio har vokset.
+- Maxis (maxis.dk): Fuld Profit Engineering. Profitabel vækst på tværs af hver kanal, styret af POAS. Hjem for Nordic Power.
+- Billig Træning (billigtraening.dk): Fuld Profit Engineering. Shopify-optimering og paid search bygget til at konvertere.
+- VICOS (vicos.dk): B2B-vækstpartner gennem snart et år. Strategi, søgning, annoncering og webudvikling, en fuld overhaling frem for en enkelt kanal.
+- Energize (energiz.dk): Komplet e-commerce-opbygning til gulvvarme. Brand, byggeri og marketing leveret som én samlet pakke.
+
+## Virksomhed
+
+- [Operators](https://profitstudio.dk/operators/): Specialisterne bag Profit Studio, på tværs af udvikling, strategi, data og marketing.
+- [Kontakt](https://profitstudio.dk/contact/): Book en gratis 30-minutters vækstanalyse, skriv til contact@profitstudio.io, eller ring på +45 3074 7539.
+- [Privatlivspolitik](https://profitstudio.dk/privacy-policy/): Sådan håndterer Profit Studio data og cookies.
+
+## Kontakt
+
+- Email: contact@profitstudio.io
+- Telefon: +45 3074 7539
+- Adresse: Brønshøj Kirkevej, 2700 Brønshøj, Danmark
+- CVR: DK-39305658
